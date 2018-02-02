@@ -1,0 +1,161 @@
+body{
+    background-color: #EAEAEA;
+    font-family: Montserrat;
+}
+
+.ico{
+    width: 30px;
+    height: 30px;
+    display: inline-block;
+    text-decoration: none;
+    text-align: center;
+    padding: 0px 5px 5px 5px;
+    text-shadow: 0px 0px 2px white;
+    opacity: 0.3;
+    -webkit-border-radius: 4;
+    -moz-border-radius: 4;
+}
+
+.icolink{
+    width: 30px;
+    height: 30px;
+    display: inline-block;
+    text-decoration: none;
+    text-align: center;
+    padding: 0px 5px 5px 5px;
+    text-shadow: 0px 0px 2px white;
+    -webkit-border-radius: 4;
+    -moz-border-radius: 4;
+    margin-left: 20px;
+    padding: 0px 5px 5px 5px;
+}
+
+.en-tete{
+    background-color: #ffffff;
+    margin-top: 30px;
+    margin-left: 350px;
+    margin-right: 350px;
+    border-radius: 5px;
+    padding-top: 20px;
+}
+
+.sociallink{
+    background-color: #ffffff;
+    margin-top: 30px;
+    margin-left: 350px;
+    margin-right: 350px;
+    display: block;
+    border-radius: 5px;
+    padding: 50px 0px 50px 0px;
+    text-align: center;
+}
+
+.soctab{
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: separate;
+    border-spacing: 20px;
+    text-align: center;
+}
+
+.corps{
+    background-color: #ffffff;
+    margin-top: 30px;
+    margin-left: 350px;
+    margin-right: 350px;
+    border-radius: 5px;
+}
+
+h1{
+    font-size: 30px;
+    font-weight: 900;
+    text-align: center;
+}
+
+h2{
+    font-weight: 400;
+    text-align: center;
+}
+
+.affichefilm{
+    width: 90px;
+    height: 140px;
+}
+
+p{
+    font-weight: 400;
+}
+
+#tim{
+    border-radius: 50%;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 20%;
+    height: 20%;
+    border: 4px solid lightgrey;
+}
+
+
+
+
+
+
+
+
+
+
+ul
+{
+	width: 460px;
+    list-style-type: none;
+    overflow: hidden;
+}
+
+li {
+	float: left;
+	color: grey;
+}
+
+li a {
+	font-size: 15px;
+    color: #d2d2d2;
+    padding: 5px;
+    text-decoration: none;
+	margin-left: 12px;
+	font-weight: 400;
+}
+
+.social
+{
+	display: inline-block;
+	background-color: white;
+	border-radius: 3px;
+	box-shadow: 2px 2px 3px 1px #d2d2d2;
+    margin-top: 30px;
+    margin-left: 350px;
+    margin-right: 350px;
+	font-size: 13px;
+	line-height: 22px;
+	text-align: center;
+    padding: 50px 0px 50px 0px
+    
+}
+
+
+.socialbut
+{
+	display: inline-block;
+	-webkit-border-radius: 4;
+	-moz-border-radius: 4;
+	border-radius: 4px;
+	color: #ffffff;
+	font-size: 17px;
+	padding: 0px 5px 5px 5px;
+	text-decoration: none;
+	width: 40%;
+	margin-left: 30%;
+	margin-right: 30%;
+	text-shadow: 0px 0px 2px white;
+    opacity: 0.2;
+}
